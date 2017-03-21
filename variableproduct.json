@@ -1,0 +1,475 @@
+{
+  "productType": "variable",
+  "productImages": {
+    "productImages1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+    "productImages2": "C:\\fakepath\\pexels-photo-87325.jpeg",
+    "productImages3": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+    "productImages4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+    "productImages5": "C:\\fakepath\\banner.png"
+  },
+  "productTitle": "Yeezus Tour Hoodie",
+  "category": "Mens",
+  "subcat1": "Causal ",
+  "subcat2": "T-Shirt",
+  "subcat3": "Wester Wear",
+  "description": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+  "relatedcategory": "Mens",
+  "relatedSubCategory": "Western",
+  "tagName": [
+    "clothing",
+    " hoodie",
+    " sweater"
+  ],
+  "specifications": {
+    "0": {
+      "specKey": "Sleeve",
+      "specValue": "Half Sleeve"
+    },
+    "1": {
+      "specKey": "Ideal For",
+      "specValue": "Men's"
+    },
+    "2": {
+      "specKey": "Pattern",
+      "specValue": "Solid"
+    },
+    "3": {
+      "specKey": "Fabric Cotton",
+      "specValue": ""
+    },
+    "4": {
+      "specKey": "Fit ",
+      "specValue": "Slim"
+    }
+  },
+  "shippingCostOneItemIndia": "50",
+  "eachAdditionalItemCostIndia": "0",
+  "shippingCostOneItemEverywhere": "50",
+  "eachAdditionalItemCostEverywhere": "20",
+  "shipOrigin": "india",
+  "processTime": "3",
+  "allProcessTime": "week",
+  "indShipOrigin": "3",
+  "attributes": {
+    "color": [
+      {
+        "label": "Green",
+        "value": "green"
+      },
+      {
+        "value": "sand",
+        "label": "sand",
+        "className": "Select-create-option-placeholder"
+      },
+      {
+        "value": "burgundy",
+        "label": "burgundy",
+        "className": "Select-create-option-placeholder"
+      }
+    ],
+    "size": [
+      {
+        "label": "S",
+        "value": "s"
+      },
+      {
+        "label": "M",
+        "value": "m"
+      },
+      {
+        "label": "L",
+        "value": "l"
+      }
+    ],
+    "collar": [
+      {
+        "label": "Chelsea",
+        "value": "chelsea"
+      },
+      {
+        "label": "Flat",
+        "value": "flat"
+      }
+    ]
+  },
+  "variations": [
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "s",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie ",
+        "varPrice": "45",
+        "varDiscount": "12",
+        "varQuantity": "12",
+        "varSKU": "15",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\city-love-rainbow-nyc.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "s",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "4",
+        "varDiscount": "45",
+        "varQuantity": "12",
+        "varSKU": "12",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage2": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage3": "C:\\fakepath\\banner.png",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "m",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "45",
+        "varDiscount": "45",
+        "varQuantity": "12",
+        "varSKU": "45",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage2": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\banner.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "m",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "41",
+        "varDiscount": "1",
+        "varQuantity": "45",
+        "varSKU": "151",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage2": "C:\\fakepath\\banner.png",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-25641-compressor.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "l",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "23",
+        "varDiscount": "45",
+        "varQuantity": "45",
+        "varSKU": "56",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-87325.jpeg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "green",
+          "size": "l",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "45",
+        "varDiscount": "2",
+        "varQuantity": "12",
+        "varSKU": "45",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage2": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\banner.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "s",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "3",
+        "varQuantity": "12",
+        "varSKU": "45",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage2": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\city-love-rainbow-nyc.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "s",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "1",
+        "varQuantity": "1",
+        "varSKU": "2",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage2": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-87325.jpeg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "m",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "45",
+        "varDiscount": "2",
+        "varQuantity": "12",
+        "varSKU": "45",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-92961-compressor.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "m",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "2",
+        "varQuantity": "12",
+        "varSKU": "1",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-25641-compressor.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "l",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "12",
+        "varQuantity": "45",
+        "varSKU": "2",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-87325.jpeg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "sand",
+          "size": "l",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "6",
+        "varQuantity": "412",
+        "varSKU": "3",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage2": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-25641-compressor.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "s",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "12",
+        "varDiscount": "21",
+        "varQuantity": "45",
+        "varSKU": "54",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage2": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-92961-compressor.jpeg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "s",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "12",
+        "varDiscount": "24",
+        "varQuantity": "15",
+        "varSKU": "21",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage5": "C:\\fakepath\\pexels-photo-92961-compressor.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "m",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "12",
+        "varDiscount": "54",
+        "varQuantity": "12",
+        "varSKU": "54",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage2": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage5": "C:\\fakepath\\pexels-photo-25641-compressor.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "m",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "12",
+        "varDiscount": "4",
+        "varQuantity": "12",
+        "varSKU": "214",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage2": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage4": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage5": "C:\\fakepath\\pexels-photo-25641.jpg"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "l",
+          "collar": "chelsea",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "12",
+        "varDiscount": "54",
+        "varQuantity": "12",
+        "varSKU": "231",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage2": "C:\\fakepath\\pexels-photo-87325.jpeg",
+        "varImage3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+        "varImage4": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+        "varImage5": "C:\\fakepath\\banner.png"
+      }
+    },
+    {
+      "variable": {
+        "variableComponent": {
+          "color": "burgundy",
+          "size": "l",
+          "collar": "flat",
+          "other": ""
+        },
+        "varTitle": "Yeezus Tour Hoodie",
+        "varPrice": "50",
+        "varDiscount": "21",
+        "varQuantity": "54",
+        "varSKU": "54",
+        "varDescription": "Handmade Item, yeezus tour white print, gildan brand, 50/50 cotton/poly, with pocket",
+        "varImage1": "C:\\fakepath\\pexels-photo-25641.jpg",
+        "varImage2": "C:\\fakepath\\banner.png",
+        "varImage3": "C:\\fakepath\\pexels-photo-25641-compressor.jpg",
+        "varImage4": "C:\\fakepath\\banner.png",
+        "varImage5": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg"
+      }
+    }
+  ]
+}

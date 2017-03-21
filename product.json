@@ -1,0 +1,57 @@
+
+{
+  "productType": "simple",
+  "productImages": {
+    "productImages1": "C:\\fakepath\\banner.png",
+    "productImages2": "C:\\fakepath\\city-love-rainbow-nyc.jpg",
+    "productImages3": "C:\\fakepath\\city-love-rainbow-nyc-compressor.jpg",
+    "productImages4": "C:\\fakepath\\pexels-photo-25641.jpg",
+    "productImages5": "C:\\fakepath\\pexels-photo-25641-compressor.jpg"
+  },
+  "productTitle": "Yeezus Tour Hoodie",
+  "category": "Mens",
+  "subcat1": "Casual",
+  "subcat2": "T-Shirt",
+  "subcat3": "",
+  "price": "50",
+  "discount": "2",
+  "quantity": "15",
+  "description": "Handmade item, yeezus tour white print, gildan brand, 50/50 Cotton/Poly, With Pocket",
+  "relatedcategory": "Mens",
+  "relatedSubCategory": "Party Wear",
+  "tagName": [
+    "clothing",
+    " hoodie",
+    " sweater"
+  ],
+  "specifications": {
+    "0": {
+      "specKey": "Suitable For",
+      "specValue": "Western Wear"
+    },
+    "1": {
+      "specKey": "Neck Type",
+      "specValue": "Polo Neck"
+    },
+    "2": {
+      "specKey": "Ideal For",
+      "specValue": "Men"
+    },
+    "3": {
+      "specKey": "Pattern",
+      "specValue": "Solid"
+    },
+    "4": {
+      "specKey": "Brand Fit",
+      "specValue": "Slim Fit"
+    }
+  },
+  "oneItemIndia": "50",
+  "additionalIndia": "0",
+  "oneItemAll": "50",
+  "additionalAll": "10",
+  "shipOrigin": "india",
+  "processTime": "3",
+  "allProcessTime": "week",
+  "indShipOrigin": "3"
+}
